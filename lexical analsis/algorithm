@@ -1,1 +1,10 @@
-
+1.Start 
+2.Define keywords,operators and special characters.
+3.Open the program file.
+4.Read each character from the file.
+4.1.Check if the character is operator. If yes ,print that it is an operator.
+4.2.Check if the character is a special character. If yes,print that it is a special character.
+4.3Check if the character is an identifier or a keyword. If yes,print.
+4.4Check if the character is a constant. If yes,print.
+5.Close the file.
+6.Stop
