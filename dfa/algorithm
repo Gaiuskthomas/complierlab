@@ -1,0 +1,13 @@
+1. start
+2. Read the number of states
+3. Read the number of inputs
+4. Read the state
+    4.1 check whether  final state or not
+5. Read input 
+    5.1 Define transition for each input
+6. Read the input string 
+    6.1 check whether the character in the string is  input
+    6.2 check the next state
+7. If it is the final state 
+    7.1 print the  string is accepted
+8. stop
