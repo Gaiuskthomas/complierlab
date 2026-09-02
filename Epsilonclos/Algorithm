@@ -1,0 +1,6 @@
+1.start
+2.Enter the number of alphabets ,number of states and transitions
+3.For i = 0 i<n no of states the transitions structure defined
+4.For i=0 i<n no of states the transitions find the closure
+5.Display the epsilon closure
+6.stop
